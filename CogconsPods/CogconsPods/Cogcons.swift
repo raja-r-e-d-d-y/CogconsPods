@@ -12,7 +12,7 @@ public class Cogcons {
     
     fileprivate init() {}
     
-    public func doSomething() -> String {
+    public static func doSomething() -> String {
         return "You did Something"
     }
 }
